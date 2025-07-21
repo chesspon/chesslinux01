@@ -1,0 +1,17 @@
+# Obsidianの内部設定ファイルやキャッシュなど、通常はGitで管理しないファイル
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/backups/
+.obsidian/cache/
+.obsidian/sync-history/
+.obsidian/community-plugins.json
+.obsidian/plugins/
+
+# プラグインのデータや設定（プラグインの設定をデバイス間で同期したくない場合は含めます）
+# もしプラグインの設定も同期したい場合は、以下の行を削除してください
+.obsidian/plugins/*/data.json
+
+# ObsidianのテーマやCSSスニペット（これらをGitで管理したい場合は、以下の行を削除してください）
+# 大抵の場合、テーマやスニペットは同期したいので、通常は以下の行を削除するのがおすすめです
+.obsidian/themes/
+.obsidian/snippets/

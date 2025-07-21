@@ -1,0 +1,448 @@
+{
+  "main": {
+    "id": "7771d3e4c2e67f82",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8f5a8b414ff8102",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f9febd8f76b77e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "07c3cb46803b536e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Q4OS_info.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Q4OS_info"
+            }
+          },
+          {
+            "id": "dca3664de9c0f6e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FIREFOX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FIREFOX"
+            }
+          },
+          {
+            "id": "927f24efea0f8554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Q4OS導入.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Q4OS導入"
+            }
+          },
+          {
+            "id": "e7ba9ac27c48b84d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medica Anfrage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Medica Anfrage"
+            }
+          },
+          {
+            "id": "9ff4e0c7ad4a4aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "エコノミスト修正.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "エコノミスト修正"
+            }
+          },
+          {
+            "id": "1786f47e51f63f02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "surface タブ　スペック.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "surface タブ　スペック"
+            }
+          },
+          {
+            "id": "074443fa706c1222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ブダペスト温泉.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ブダペスト温泉"
+            }
+          },
+          {
+            "id": "67dba12687e03629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shortcut links.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shortcut links"
+            }
+          },
+          {
+            "id": "f987dd69caad6786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ドライバアップデート.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ドライバアップデート"
+            }
+          },
+          {
+            "id": "5fbb19df39f5903b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GEMINI CLI を使った事例集.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GEMINI CLI を使った事例集"
+            }
+          },
+          {
+            "id": "86579f8d49f2b270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Q4OS_info.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Q4OS_info"
+            }
+          },
+          {
+            "id": "6b7a3a1dc4208838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025版航空会社ランキング速報。ワーストに注目.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025版航空会社ランキング速報。ワーストに注目"
+            }
+          },
+          {
+            "id": "b1dd9e0d6fcbc817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "koukuugaisyasononi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "koukuugaisyasononi"
+            }
+          },
+          {
+            "id": "4cf9b13af2633634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "210725発表内容.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "210725発表内容"
+            }
+          }
+        ],
+        "currentTab": 14
+      },
+      {
+        "id": "e2c62669b3dfc3ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca81c04e8c4128b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "f118143e69557127",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSdRnHwIiYUZt_gUjV8NHSW6J9DZ-4R_Y0x6Lqht-Meep4gM8A/viewform",
+                "title": "Notion Text input",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Notion Text input"
+            }
+          },
+          {
+            "id": "deefac8339fa86fc",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chess-writer.created.app/",
+                "title": "AI Content Generator",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "AI Content Generator"
+            }
+          },
+          {
+            "id": "d703b810562c373a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://chatgpt.com/",
+                "title": "ChatGPT",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "ChatGPT"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3d63614887639a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d143c5f03348b61a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e6b34c1d578a99c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "724464e3e5c228ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "98392b75fd388e6d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "651cd9449111ac95",
+    "type": "split",
+    "children": [
+      {
+        "id": "f589244276483fb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05e440de1a865806",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0b65b8dd7d33f326",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a235f5ad17fccc0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4468f30767a5d6d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d703b810562c373a",
+  "lastOpenFiles": [
+    "210725発表内容.md",
+    "koukuugaisyasononi.md",
+    "2025版航空会社ランキング速報。ワーストに注目.md",
+    "Q4OS_info.md",
+    "そもそもAIエージェントとは.md",
+    "GEMINI CLI を使った事例集.md",
+    "ドライバアップデート.md",
+    "Shortcut links.md",
+    "ブダペスト温泉.md",
+    "Welcome.md",
+    "Untitled.md",
+    "surface タブ　スペック.md",
+    "エコノミスト修正.md",
+    "Medica Anfrage.md",
+    "Q4OS導入.md",
+    "Dify の弱点.md",
+    "FIREFOX.md"
+  ]
+}
