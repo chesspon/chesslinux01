@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "210725発表内容.md",
+                "file": "今必要なこと.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "210725発表内容"
+              "title": "今必要なこと"
             }
           }
         ],
@@ -272,16 +272,16 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://chatgpt.com/",
-                "title": "ChatGPT",
+                "url": "https://chatgpt.com/c/687b9388-edd4-8006-a4c9-1dedc9f9b232",
+                "title": "Bluetoothドライバアップデート方法",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "ChatGPT"
+              "title": "Bluetoothドライバアップデート方法"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -407,8 +407,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "11f9549f2f9a3eba",
+            "type": "leaf",
+            "state": {
+              "type": "smart-gantt",
+              "state": {},
+              "icon": "egg",
+              "title": "Smart Gantt"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -422,26 +433,30 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "smart-gantt:Smart Gantt": false
     }
   },
-  "active": "d703b810562c373a",
+  "active": "4cf9b13af2633634",
   "lastOpenFiles": [
-    "deploy.yml",
-    "210725発表内容.md",
+    "新規案件獲得ガイド.md",
+    "ブダペスト温泉.md",
+    "test canvas.canvas",
+    "GEMINI CLI を使った事例集.md",
+    "Medica Anfrage.md",
+    "今必要なこと.md",
     "koukuugaisyasononi.md",
+    "エコノミスト修正.md",
+    "Welcome.md",
+    "Untitled.md",
+    "210725発表内容.md",
+    "deploy.yml",
     "2025版航空会社ランキング速報。ワーストに注目.md",
     "Q4OS_info.md",
     "そもそもAIエージェントとは.md",
-    "GEMINI CLI を使った事例集.md",
     "ドライバアップデート.md",
     "Shortcut links.md",
-    "ブダペスト温泉.md",
-    "Welcome.md",
-    "Untitled.md",
     "surface タブ　スペック.md",
-    "エコノミスト修正.md",
-    "Medica Anfrage.md",
     "Q4OS導入.md",
     "Dify の弱点.md",
     "FIREFOX.md"
