@@ -1,0 +1,4 @@
+モデル: Miix 300-10IBY
+CPU: Atom Z3735F
+RAM: 2GB
+Display: 1280x800

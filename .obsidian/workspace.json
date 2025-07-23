@@ -209,35 +209,69 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "今必要なこと.md",
+                "file": "GEMINI CLI を使った事例集.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "今必要なこと"
+              "title": "GEMINI CLI を使った事例集"
+            }
+          },
+          {
+            "id": "581a8a6a7ec17865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-07-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-22"
+            }
+          },
+          {
+            "id": "934d4245f159c40b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lenovo tab specs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lenovo tab specs"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 16
       },
       {
         "id": "e2c62669b3dfc3ec",
         "type": "tabs",
         "children": [
-          {
-            "id": "ca81c04e8c4128b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
           {
             "id": "f118143e69557127",
             "type": "leaf",
@@ -272,16 +306,30 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://chatgpt.com/c/687b9388-edd4-8006-a4c9-1dedc9f9b232",
-                "title": "Bluetoothドライバアップデート方法",
+                "url": "https://chatgpt.com/?model=auto",
+                "title": "ChatGPT",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Bluetoothドライバアップデート方法"
+              "title": "ChatGPT"
+            }
+          },
+          {
+            "id": "92d27cec5ab2fe1c",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://app.simplenote.com/",
+                "title": "Simplenote",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Simplenote"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -400,16 +448,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2025-07-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-07-22"
             }
           },
           {
-            "id": "11f9549f2f9a3eba",
+            "id": "167d227a241c7a92",
             "type": "leaf",
             "state": {
               "type": "smart-gantt",
@@ -423,7 +472,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 567.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -431,34 +480,35 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "smart-gantt:Smart Gantt": false
     }
   },
-  "active": "4cf9b13af2633634",
+  "active": "92d27cec5ab2fe1c",
   "lastOpenFiles": [
+    "Lenovo tab specs.md",
+    "2025-07-22.md",
+    "surface タブ　スペック.md",
+    "Shortcut links.md",
+    "Welcome.md",
+    "Q4OS導入.md",
+    "Q4OS_info.md",
+    "Untitled.md",
+    "GEMINI CLI を使った事例集.md",
+    "FIREFOX.md",
+    "今必要なこと.md",
     "新規案件獲得ガイド.md",
     "ブダペスト温泉.md",
     "test canvas.canvas",
-    "GEMINI CLI を使った事例集.md",
     "Medica Anfrage.md",
-    "今必要なこと.md",
     "koukuugaisyasononi.md",
     "エコノミスト修正.md",
-    "Welcome.md",
-    "Untitled.md",
     "210725発表内容.md",
     "deploy.yml",
     "2025版航空会社ランキング速報。ワーストに注目.md",
-    "Q4OS_info.md",
     "そもそもAIエージェントとは.md",
     "ドライバアップデート.md",
-    "Shortcut links.md",
-    "surface タブ　スペック.md",
-    "Q4OS導入.md",
-    "Dify の弱点.md",
-    "FIREFOX.md"
+    "Dify の弱点.md"
   ]
 }
