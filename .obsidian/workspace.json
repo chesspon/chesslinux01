@@ -360,9 +360,81 @@
               "icon": "lucide-file",
               "title": "Medica2025"
             }
+          },
+          {
+            "id": "75d584bd20f863db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-07-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-25"
+            }
+          },
+          {
+            "id": "ef5d5e8d3d9a80c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medica Anfrage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Medica Anfrage"
+            }
+          },
+          {
+            "id": "00cf08af996531f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mirali 290725 meeting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mirali 290725 meeting"
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 23
       },
       {
         "id": "e2c62669b3dfc3ec",
@@ -416,12 +488,36 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://app.simplenote.com/",
-                "title": "Simplenote",
+                "url": "https://app.simplenote.com/login/",
+                "title": "Log in to Simplenote",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Simplenote"
+              "title": "Log in to Simplenote"
+            }
+          },
+          {
+            "id": "ad2e8a84ae21c619",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medica 2025 設営期間.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Medica 2025 設営期間"
             }
           },
           {
@@ -431,15 +527,15 @@
               "type": "webviewer",
               "state": {
                 "url": "https://simplepage-deploytool.created.app/",
-                "title": "Webseiten-Erstellungswerkzeug",
-                "mode": "webview"
+                "title": "simplepage-deploytool.created.app",
+                "mode": "error"
               },
               "icon": "globe-2",
-              "title": "Webseiten-Erstellungswerkzeug"
+              "title": "simplepage-deploytool.created.app"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -595,44 +691,45 @@
       "smart-gantt:Smart Gantt": false
     }
   },
-  "active": "92d27cec5ab2fe1c",
+  "active": "ad2e8a84ae21c619",
   "lastOpenFiles": [
-    "hazkeyテストタイプ.md",
+    "Mirali 290725 meeting.md",
+    "Medica 2025 設営期間.md",
+    "Medica Anfrage.md",
+    "2025-07-23.md",
+    "RAZR 40 Ultra.md",
+    "2025-07-25.md",
     "Medica2025.md",
-    "Benediktとのミーティング.md",
-    "newapp/node_modules/thingies/lib/xorshift.js",
-    "newapp/node_modules/thingies/lib/xorshift.d.ts",
-    "newapp/node_modules/thingies/lib/until.js",
-    "newapp/node_modules/thingies/lib/until.d.ts",
-    "newapp/node_modules/thingies/lib/types.js",
-    "newapp/node_modules/thingies/lib/types.d.ts",
-    "newapp/node_modules/thingies/lib/tick.js",
-    "newapp/node_modules/thingies/lib/tick.d.ts",
-    "newapp/node_modules/thingies/lib/randomStr.js",
-    "newapp/node_modules/thingies/lib/randomStr.d.ts",
-    "newapp/node_modules/is-async-function/README.md",
-    "newapp/node_modules/ws/README.md",
-    "newapp/node_modules/hpack.js/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md",
-    "newapp/node_modules/express/History.md",
-    "newapp/node_modules/node-fetch/LICENSE.md",
-    "newapp/node_modules/minimist/CHANGELOG.md",
-    "newapp/node_modules/is-boolean-object/CHANGELOG.md",
-    "newapp/node_modules/source-map-js/README.md",
-    "newapp/node_modules/@modelcontextprotocol/sdk/node_modules/express/Readme.md",
-    "newapp/node_modules/istanbul-lib-source-maps/node_modules/source-map/CHANGELOG.md",
-    "newapp/node_modules/source-map-support/node_modules/source-map/CHANGELOG.md",
-    "newapp/node_modules/escodegen/node_modules/source-map/CHANGELOG.md",
-    "newapp/node_modules/terser/node_modules/source-map/CHANGELOG.md",
-    "newapp/node_modules/is-weakset/README.md",
-    "newapp/node_modules/is-map/README.md",
-    "newapp/node_modules/is-async-function/CHANGELOG.md",
-    "newapp/node_modules/nth-check/README.md",
-    "newapp/node_modules/is-map/CHANGELOG.md",
-    "newapp/node_modules/clone-deep/README.md",
-    "newapp/node_modules/is-generator-function/README.md",
-    "newapp/node_modules/acorn/README.md",
-    "newapp/node_modules/is-finalizationregistry/README.md",
-    "newapp/node_modules/math-intrinsics/README.md",
+    "newapp01/node_modules/zod/v4-mini/index.js",
+    "newapp01/node_modules/zod/v4-mini/index.d.ts",
+    "newapp01/node_modules/zod/v4-mini/index.d.cts",
+    "newapp01/node_modules/zod/v4-mini/index.cjs",
+    "newapp01/node_modules/zod/v4/mini",
+    "newapp01/node_modules/zod/v4/locales",
+    "newapp01/node_modules/zod/v4/index.js",
+    "newapp01/node_modules/zod/v4/index.d.ts",
+    "newapp01/node_modules/zod/v4/index.d.cts",
+    "newapp01/node_modules/zod/v4/index.cjs",
+    "newapp01/node_modules/ts-node/dist-raw/README.md",
+    "newapp01/node_modules/ts-node/dist-raw/NODE-LICENSE.md",
+    "newapp01/node_modules/node-forge/flash/README.md",
+    "newapp01/node_modules/mdn-data/css/readme.md",
+    "newapp01/node_modules/core-js-pure/modules/README.md",
+    "newapp01/node_modules/core-js-pure/internals/README.md",
+    "newapp01/node_modules/core-js-pure/web/README.md",
+    "newapp01/node_modules/core-js-pure/stage/README.md",
+    "newapp01/node_modules/core-js-pure/stable/README.md",
+    "newapp01/node_modules/core-js-pure/full/README.md",
+    "newapp01/node_modules/core-js-pure/es/README.md",
+    "newapp01/node_modules/core-js-pure/actual/README.md",
+    "newapp01/node_modules/babel-plugin-polyfill-corejs3/core-js-compat/README.md",
+    "newapp01/node_modules/@xtuc/long/README.md",
+    "newapp01/node_modules/@xtuc/ieee754/README.md",
+    "newapp01/node_modules/@webpack-cli/serve/README.md",
+    "newapp01/node_modules/@webpack-cli/info/README.md",
+    "newapp01/node_modules/@webpack-cli/configtest/README.md",
+    "newapp01/node_modules/@webassemblyjs/wast-printer/README.md",
+    "newapp01/node_modules/psl/browserstack-logo.svg",
     "test canvas.canvas"
   ]
 }
