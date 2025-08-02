@@ -6,6 +6,7 @@
       {
         "id": "c8f5a8b414ff8102",
         "type": "tabs",
+        "dimension": 50.72788353863382,
         "children": [
           {
             "id": "2f9febd8f76b77e6",
@@ -15,80 +16,20 @@
               "state": {
                 "file": "Welcome.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Welcome"
-            }
-          },
-          {
-            "id": "07c3cb46803b536e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Q4OS_info.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Q4OS_info"
-            }
-          },
-          {
-            "id": "dca3664de9c0f6e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FIREFOX.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FIREFOX"
-            }
-          },
-          {
-            "id": "927f24efea0f8554",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Q4OS導入.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Q4OS導入"
-            }
-          },
-          {
-            "id": "e7ba9ac27c48b84d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Medica Anfrage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Medica Anfrage"
-            }
-          },
-          {
-            "id": "9ff4e0c7ad4a4aaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "エコノミスト修正.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "エコノミスト修正"
             }
           },
           {
@@ -99,52 +40,20 @@
               "state": {
                 "file": "surface タブ　スペック.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "surface タブ　スペック"
-            }
-          },
-          {
-            "id": "074443fa706c1222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ブダペスト温泉.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ブダペスト温泉"
-            }
-          },
-          {
-            "id": "67dba12687e03629",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shortcut links.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shortcut links"
-            }
-          },
-          {
-            "id": "f987dd69caad6786",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ドライバアップデート.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ドライバアップデート"
             }
           },
           {
@@ -155,75 +64,29 @@
               "state": {
                 "file": "GEMINI CLI を使った事例集.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "GEMINI CLI を使った事例集"
             }
           },
           {
-            "id": "86579f8d49f2b270",
+            "id": "faef68f21f98713f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Q4OS_info.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Q4OS_info"
-            }
-          },
-          {
-            "id": "6b7a3a1dc4208838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025版航空会社ランキング速報。ワーストに注目.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025版航空会社ランキング速報。ワーストに注目"
-            }
-          },
-          {
-            "id": "b1dd9e0d6fcbc817",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "koukuugaisyasononi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "koukuugaisyasononi"
-            }
-          },
-          {
-            "id": "4cf9b13af2633634",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GEMINI CLI を使った事例集.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GEMINI CLI を使った事例集"
-            }
-          },
-          {
-            "id": "581a8a6a7ec17865",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-07-22.md",
+                "file": "MSC trip schedule.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -238,207 +101,86 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-22"
+              "title": "MSC trip schedule"
             }
           },
           {
-            "id": "934d4245f159c40b",
+            "id": "7f69bc4ced425abb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "Lenovo tab specs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "url": "https://simplepage-deploytool.created.app/",
+                "title": "Webseiten-Erstellungswerkzeug",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "Lenovo tab specs"
+              "icon": "globe-2",
+              "title": "Webseiten-Erstellungswerkzeug"
             }
           },
           {
-            "id": "3118e3cd920d7eb9",
+            "id": "e8de3520f5428ae8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "2025-07-23.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "url": "https://chatgpt.com/c/688627eb-7eac-832e-af1e-458dfedc9568",
+                "title": "Qi2 スマホ充電規格",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "2025-07-23"
+              "icon": "globe-2",
+              "title": "Qi2 スマホ充電規格"
             }
           },
           {
-            "id": "de5155b84e1d19aa",
+            "id": "5a9db1154ee9b0bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "Benediktとのミーティング.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "url": "https://app.simplenote.com/login/",
+                "title": "Log in to Simplenote",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "Benediktとのミーティング"
+              "icon": "globe-2",
+              "title": "Log in to Simplenote"
             }
           },
           {
-            "id": "2a574d16541899e6",
+            "id": "8bf2ee7365c7715a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "hazkeyテストタイプ.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "url": "https://chess-writer.created.app/",
+                "title": "AI Content Generator",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "hazkeyテストタイプ"
+              "icon": "globe-2",
+              "title": "AI Content Generator"
             }
           },
           {
-            "id": "2d0ac9ce2a8e1ddf",
+            "id": "02541e73e649532a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "Medica2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSdRnHwIiYUZt_gUjV8NHSW6J9DZ-4R_Y0x6Lqht-Meep4gM8A/viewform",
+                "title": "Notion Text input",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "Medica2025"
-            }
-          },
-          {
-            "id": "75d584bd20f863db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-07-25.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-25"
-            }
-          },
-          {
-            "id": "ef5d5e8d3d9a80c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Medica Anfrage.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Medica Anfrage"
-            }
-          },
-          {
-            "id": "00cf08af996531f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mirali 290725 meeting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mirali 290725 meeting"
+              "icon": "globe-2",
+              "title": "Notion Text input"
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 7
       },
       {
         "id": "e2c62669b3dfc3ec",
         "type": "tabs",
+        "dimension": 49.27211646136618,
         "children": [
           {
             "id": "f118143e69557127",
@@ -458,14 +200,24 @@
             "id": "deefac8339fa86fc",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://chess-writer.created.app/",
-                "title": "AI Content Generator",
-                "mode": "webview"
+                "file": "MSC trip schedule.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "globe-2",
-              "title": "AI Content Generator"
+              "icon": "lucide-file",
+              "title": "MSC trip schedule"
             }
           },
           {
@@ -497,7 +249,7 @@
             }
           },
           {
-            "id": "ad2e8a84ae21c619",
+            "id": "4c2d07c6cf68a101",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -519,23 +271,9 @@
               "icon": "lucide-file",
               "title": "Medica 2025 設営期間"
             }
-          },
-          {
-            "id": "4c2d07c6cf68a101",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://simplepage-deploytool.created.app/",
-                "title": "simplepage-deploytool.created.app",
-                "mode": "error"
-              },
-              "icon": "globe-2",
-              "title": "simplepage-deploytool.created.app"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -691,15 +429,35 @@
       "smart-gantt:Smart Gantt": false
     }
   },
-  "active": "ad2e8a84ae21c619",
+  "active": "8bf2ee7365c7715a",
   "lastOpenFiles": [
-    "Mirali 290725 meeting.md",
+    "MSC trip schedule.md",
+    "GEMINI CLI を使った事例集.md",
     "Medica 2025 設営期間.md",
-    "Medica Anfrage.md",
+    "surface タブ　スペック.md",
+    "ドライバアップデート.md",
+    "hazkeyテストタイプ.md",
     "2025-07-23.md",
-    "RAZR 40 Ultra.md",
-    "2025-07-25.md",
+    "air line ranking 航空会社その２.md",
+    "ブダペスト温泉.md",
+    "Shortcut links.md",
+    "Q4OS_info.md",
+    "2025-07-22.md",
+    "Lenovo tab specs.md",
     "Medica2025.md",
+    "2025-07-25.md",
+    "Medica Anfrage.md",
+    "Mirali 290725 meeting.md",
+    "新規案件獲得ガイド.md",
+    "Welcome.md",
+    "エコノミスト修正.md",
+    "FIREFOX.md",
+    "Q4OS導入.md",
+    "Benediktとのミーティング.md",
+    "今必要なこと.md",
+    "test canvas.canvas",
+    "210725発表内容.md",
+    "Jetro 千葉ブース.md",
     "newapp01/node_modules/zod/v4-mini/index.js",
     "newapp01/node_modules/zod/v4-mini/index.d.ts",
     "newapp01/node_modules/zod/v4-mini/index.d.cts",
@@ -710,26 +468,6 @@
     "newapp01/node_modules/zod/v4/index.d.ts",
     "newapp01/node_modules/zod/v4/index.d.cts",
     "newapp01/node_modules/zod/v4/index.cjs",
-    "newapp01/node_modules/ts-node/dist-raw/README.md",
-    "newapp01/node_modules/ts-node/dist-raw/NODE-LICENSE.md",
-    "newapp01/node_modules/node-forge/flash/README.md",
-    "newapp01/node_modules/mdn-data/css/readme.md",
-    "newapp01/node_modules/core-js-pure/modules/README.md",
-    "newapp01/node_modules/core-js-pure/internals/README.md",
-    "newapp01/node_modules/core-js-pure/web/README.md",
-    "newapp01/node_modules/core-js-pure/stage/README.md",
-    "newapp01/node_modules/core-js-pure/stable/README.md",
-    "newapp01/node_modules/core-js-pure/full/README.md",
-    "newapp01/node_modules/core-js-pure/es/README.md",
-    "newapp01/node_modules/core-js-pure/actual/README.md",
-    "newapp01/node_modules/babel-plugin-polyfill-corejs3/core-js-compat/README.md",
-    "newapp01/node_modules/@xtuc/long/README.md",
-    "newapp01/node_modules/@xtuc/ieee754/README.md",
-    "newapp01/node_modules/@webpack-cli/serve/README.md",
-    "newapp01/node_modules/@webpack-cli/info/README.md",
-    "newapp01/node_modules/@webpack-cli/configtest/README.md",
-    "newapp01/node_modules/@webassemblyjs/wast-printer/README.md",
-    "newapp01/node_modules/psl/browserstack-logo.svg",
-    "test canvas.canvas"
+    "newapp01/node_modules/psl/browserstack-logo.svg"
   ]
 }

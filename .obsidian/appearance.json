@@ -1,1 +1,5 @@
-{}
+{
+  "interfaceFontFamily": "Helvetica,American Typewriter",
+  "textFontFamily": "Helvetica",
+  "monospaceFontFamily": "Helvetica"
+}
